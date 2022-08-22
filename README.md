@@ -6,8 +6,10 @@
 > I am currently learning about web development, and cloud encoding and decoding.
 <br/>
 
+<!---
 > Right now, I am working on a new Python library called `scratchemulator`. Stay tuned!
 <br/>
+--->
 
 > You can reach me either on [Scratch](https://scratch.mit.edu/users/codingboy_CW/) or [itch.io](https://codingboy-cw.itch.io/)!
 
