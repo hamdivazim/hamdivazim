@@ -7,7 +7,7 @@
  I'm a kid who absolutely LOVES coding! I specifically like coding in Python and the Apple programming language Swift. Occasionally, I also make little projects here and there on Scratch, announcing the release of something new I've built, or just a fun little game!
  <br/>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For now, I'm making a new custom command line called `versioner`!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For now, I'm working  with Kivy to make iOS apps!
 <br/>
 <br/>
 
