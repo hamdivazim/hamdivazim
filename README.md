@@ -50,7 +50,8 @@ Software:
 
 4. **My Future Achievements?**
   ```
-  versioner terminal
+  iOS Native Developer
+  Web Developer
   ```
   
 <br/>
