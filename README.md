@@ -3,6 +3,12 @@
 #### I'm codingboy_CW (or you can call me Hamdi)!
 <br/>
 
+
+<a href="https://github.com/meta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meta&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<br/>
+
 1. **Who Am I?**<br/>
  I'm a kid who absolutely LOVES coding! I specifically like coding in Python and the Apple programming language Swift. Occasionally, I also make little projects here and there on Scratch, announcing the release of something new I've built, or just a fun little game!
  <br/>
