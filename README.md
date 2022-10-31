@@ -50,7 +50,7 @@ Software:
 <br/>
 
 3. **How To Reach Me?**<br/>
-  I'm available on [Scratch](https://scratch.mit.edu/users/codingboy_CW) or [itch.io](https://codingboy-cw.itch.io/) or right here on GitHub!
+  I'm available on [itch.io](https://codingboy-cw.itch.io/) or right here on GitHub!
 
 <br/>
 <br/>
