@@ -38,7 +38,7 @@ UX/UI Design:
   
 Machines/OS:
   - Windows 11 for my programming, shell work, and YouTube filming (@codingboy_CW).
-  - MacOS Montery for Flutter development, and YouTube editing (HitFim)
+  - MacOS Ventura 13 for Flutter development, and YouTube editing (HitFim)
   - VMWare virtualisation to test potentially dangerous software.
   
 Software:
