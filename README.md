@@ -1,7 +1,7 @@
 ### Hey there 👋 
 
 #### I'm codingboy_CW (or you can call me Hamdi)!
-<br/>
+
 Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
 <br/>
 
@@ -15,7 +15,7 @@ Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
  I'm a kid who absolutely LOVES coding! I specifically like coding in Python and the Apple programming language Swift.
  <br/>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For now, I'm working  with Kivy to make iOS apps!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For now, I'm working  with Kivy to make iOS apps and with Swift and Xcode to create awesome native apps!
 <br/>
 <br/>
 
