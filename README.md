@@ -2,7 +2,8 @@
 
 #### I'm codingboy_CW (or you can call me Hamdi)!
 <br/>
-
+Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
+<br/>
 
 <a href="https://github.com/hamdivazim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdivazim&count_private=true&show_icons=true&include_all_commits=true" />
