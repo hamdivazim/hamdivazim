@@ -4,7 +4,7 @@
 
 Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
 <br>
-Also, visit my [blog](https://hamdivazim.github.io/index.html)!
+Also, visit my [blog](https://hamdivazim.github.io)!
 <br/>
 
 <a href="https://github.com/hamdivazim">
