@@ -3,6 +3,8 @@
 #### I'm codingboy_CW (or you can call me Hamdi)!
 
 Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
+<br>
+Also, visit my [blog](https://hamdivazim.github.io/index.html)!
 <br/>
 
 <a href="https://github.com/hamdivazim">
