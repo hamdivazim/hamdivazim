@@ -22,16 +22,22 @@ Also, visit my [blog](https://hamdivazim.github.io)!
 
 ```
 Mobile Development:
-  - Python (Kivy) and Swift with Xcode. I am also learning Flutter and Dart.
+  - Python (Kivy) and Swift with Xcode. 
+  - Learning Flutter and Dart.
+  - Working with Kotlin for Android
   
 Web Development:
-  - HTML 5, CSS, JavaScript (learning).
+  - HTML 5
+  - CSS
+  - JavaScript
   
 Backend Development:
-  - PHP, sometimes Python.
+  - PHP
+  - Python
   
 Shell Scripting:
-  - Git Bash, sometimes command prompt.
+  - Git Bash
+  - Command prompt.
   
 UX/UI Design:
   - Figma
