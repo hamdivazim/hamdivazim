@@ -1,74 +1,59 @@
-### Hey there 👋 
+<img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/pfp-wide.png" align="center" />
+<h1 align="center">Hey there 👋, I'm codingboy_CW</h1>
+<h3 align="center">Or you can call me Hamdi!</h3>
 
-#### I'm codingboy_CW (or you can call me Hamdi)!
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=hamdivazim&label=Profile%20views&color=0e75b6&style=flat" alt="hamdivazim's profile views" /> 
+ <img src="https://img.shields.io/badge/Languages-Python | Swift | Kotlin | Web Dev -green.svg" alt="hamdivazim's profile views" />
+ <img src="https://img.shields.io/github/followers/hamdivazim.svg?style=social&label=Follow&maxAge=2592000" alt="hamdivazim's followers" />
+ <a href="https://hamdivazim.github.io"><img src="https://img.shields.io/badge/My Blog-hamdivazim.github.io-00c1c1.svg" alt="hamdivazim's profile views" /></a>
+</p>
 
-Check out my latest app, [PassSafe](https://github.com/hamdivazim/PassSafe)!
-<br>
-Also, visit my [blog](https://hamdivazim.github.io)!
-<br/>
-
-<br/>
-<br/>
-
-1. **Who Am I?**<br/>
- I'm a kid who absolutely LOVES coding! I specifically like coding in Python and the Apple programming language Swift.
- <br/>
+<div align="center">
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For now, I'm working  with Kivy to make iOS apps and with Swift and Xcode to create awesome native apps!
-<br/>
-<br/>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=CodeGlob)](https://github.com/hamdivazim/CodeGlob)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=Console-Games)](https://github.com/hamdivazim/Console-Games)
+ 
+</div>
 
-2. **What Do I Do?**
-
-```
-Mobile Development:
-  - Python (Kivy) and Swift with Xcode. 
-  - Learning Flutter and Dart.
-  - Working with Kotlin for Android
-  
-Web Development:
-  - HTML 5
-  - CSS
-  - JavaScript
-  
-Backend Development:
-  - PHP
-  - Python
-  
-Shell Scripting:
-  - Git Bash
-  - Command prompt.
-  
-UX/UI Design:
-  - Figma
-  
-Machines/OS:
-  - Windows 11 for my programming, shell work, and YouTube filming (@codingboy_CW).
-  - MacOS Ventura 13 for Flutter development, and YouTube editing (HitFim)
-  - VMWare virtualisation to test potentially dangerous software.
-  
-Software:
-  - Windows, MacOS, VMWare
-  - Visual Studio Code (IDE)
-  - Git Bash Terminal
-```
-<br/>
-<br/>
-
-3. **How To Reach Me?**<br/>
-  I'm available on [itch.io](https://codingboy-cw.itch.io/) or right here on GitHub!
+<p align="center"> Visit by blog at https://hamdivazim.github.io </p>
 
 <br/>
 <br/>
 
-4. **My Future Achievements?**
-  ```
-  iOS Native Developer
-  Web Developer
-  ```
-  
-<br/>
-<br/>
-  
-5. **How Else To Reach Me (YouTube)**<br/>
-  You can also reach me on my [YouTube](https://www.youtube.com/channel/UC5wVpJNisPckkidnZ-CBGtg), where I will post short tutorials on Python. I film using Bandicam on my Windows PC, and edit on FXHome HitFilm Express (Mac)
+- 👀 An aspiring developer specialising in Python and web development
+- 🌱 Getting into game development with Unity
+- 💻 Building [an awesome social media project](https://github.com/hamdivazim/CodeGlob).
+- ⚡ **Fun Fact**: I'm only 12!
+
+## Tech Tools
+<p align="center">
+ 
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/swiftlogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/htmllogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csslogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/jslogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/unitylogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csharplogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kotlinlogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/gitlogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/tensorflowlogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/xcodelogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/vscodelogo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/androidstudiologo.png" width=75px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/firebase.svg" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/figmalogo.png" height=85px />
+</p>
+
+## Stats
+<a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true"> </a>
+<a href="https://github.com/hamdivazim"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdivazim"> </a>
+<a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
+<a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim"> </a>
+
+
+<center>
+ <h2>Quote of The Day</h2>
+ <a href="#"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"> </a>
+</center>
