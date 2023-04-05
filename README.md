@@ -17,6 +17,7 @@
 </div>
 
 <p align="center"> Visit by blog at https://hamdivazim.github.io </p>
+<p align="center"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV">Email me</a> at codingboy.cw@gmail.com for queries. </p>
 
 <br/>
 <br/>
@@ -52,6 +53,9 @@
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim"> </a>
 
+## Social
+- My **YouTube** is [@codingboy_CW](https://youtube.com/@codingboy_CW)
+- My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
 
 <center>
  <h2>Quote of The Day</h2>
