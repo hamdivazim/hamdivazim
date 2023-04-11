@@ -18,6 +18,7 @@
 
 <p align="center"> Visit by blog at https://hamdivazim.github.io </p>
 <p align="center"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV">Email me</a> at codingboy.cw@gmail.com for queries. </p>
+<p align="center"> Catch awesome tutorials and projects on <a href="https://youtube.com/@codingboy_CW"> my YouTube</a>. </p>
 
 <br/>
 <br/>
