@@ -28,7 +28,7 @@
 - 💻 Building [an awesome social media project](https://github.com/hamdivazim/CodeGlob).
 - ⚡ **Fun Fact**: I'm only 12!
 
-## Tech Tools
+## :hammer: Tech Tools
 <p align="center">
  
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=75px />
@@ -48,17 +48,17 @@
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/figmalogo.png" height=85px />
 </p>
 
-## Stats
+## 📈 Stats
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdivazim"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim"> </a>
 
-## Social
+## :link: Social
 - My **YouTube** is [@codingboy_CW](https://youtube.com/@codingboy_CW)
 - My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
 
 <center>
- <h2>Quote of The Day</h2>
+ <h2> :thought_balloon: Quote of The Day</h2>
  <a href="#"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"> </a>
 </center>
