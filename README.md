@@ -18,7 +18,7 @@
 
 <p align="center"> Visit by blog at https://hamdivazim.github.io </p>
 <p align="center"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV">Email me</a> at codingboy.cw@gmail.com for queries. </p>
-<p align="center"> Catch awesome tutorials and projects on <a href="https://youtube.com/@codingboy_CW"> my YouTube</a>. </p>
+
 
 <br/>
 <br/>
@@ -55,7 +55,6 @@
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim"> </a>
 
 ## :link: Social
-- My **YouTube** is [@codingboy_CW](https://youtube.com/@codingboy_CW)
 - My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
 
 <center>
