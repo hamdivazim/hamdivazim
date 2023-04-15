@@ -25,6 +25,7 @@
 
 - 👀 An aspiring developer specialising in Python and web development
 - 🌱 Getting into game development with Unity
+- 💡 Learning ReactJS, Dart and Django
 - 💻 Building [an awesome social media project](https://github.com/hamdivazim/CodeGlob).
 - ⚡ **Fun Fact**: I'm only 12!
 
