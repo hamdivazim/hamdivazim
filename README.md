@@ -47,6 +47,11 @@
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/androidstudiologo.png" width=75px />
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/firebase.svg" height=85px />
  <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/figmalogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/dartlogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/flutterlogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/reactlogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/djangologo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kivylogo.png" height=85px />
 </p>
 
 ## 📈 Stats
