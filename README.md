@@ -58,7 +58,7 @@
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdivazim"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
-<a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim"> </a>
+<a href="https://github.com/hamdivazim"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hamdivazim&&bg_color=009EA0&color=ffffff&line=03494A&point=ffffff"> </a>
 
 ## :link: Social
 - My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
