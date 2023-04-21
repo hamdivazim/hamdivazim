@@ -17,7 +17,7 @@
 </div>
 
 <p align="center"> Visit my blog at https://hamdivazim.github.io </p>
-<p align="center"> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV">Email me</a> at codingboy.cw@gmail.com for queries. </p>
+<p align="center"> <a href="mailto:codingboy.cw@gmail.com">Email me</a> at codingboy.cw@gmail.com for queries. </p>
 
 
 <br/>
