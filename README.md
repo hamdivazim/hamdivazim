@@ -4,9 +4,9 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=hamdivazim&label=Profile%20views&color=0e75b6&style=flat" alt="hamdivazim's profile views" /> 
- <img src="https://img.shields.io/badge/Languages-Python | Swift | Kotlin | Web Dev -green.svg" alt="hamdivazim's profile views" />
+ <img src="https://img.shields.io/badge/Languages-Python | Swift | Kotlin | Web Dev -green.svg" alt="hamdivazim's languages" />
  <img src="https://img.shields.io/github/followers/hamdivazim.svg?style=social&label=Follow&maxAge=2592000" alt="hamdivazim's followers" />
- <a href="https://hamdivazim.github.io"><img src="https://img.shields.io/badge/My Blog-hamdivazim.github.io-00c1c1.svg" alt="hamdivazim's profile views" /></a>
+ <a href="https://hamdivazim.github.io"><img src="https://img.shields.io/badge/My Blog-hamdivazim.github.io-00c1c1.svg" alt="hamdivazim's blog" /></a>
 </p>
 
 <div align="center">
