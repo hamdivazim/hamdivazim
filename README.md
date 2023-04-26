@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/pfp-wide.png" align="center" />
 <h1 align="center">Hey there 👋, I'm codingboy_CW</h1>
-<h3 align="center">Or you can call me Hamdi!</h3>
+<h3 align="center">Or you can call me Hamd!</h3>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=hamdivazim&label=Profile%20views&color=0e75b6&style=flat" alt="hamdivazim's profile views" /> 
