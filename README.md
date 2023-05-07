@@ -10,6 +10,12 @@
 </p>
 
 <div align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=hamdivazim&cc=ffffff&tc=448DEF&ic=00&bc=448DEF">
+</a>
+ </div>
+
+<div align="center">
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=CodeGlob)](https://github.com/hamdivazim/CodeGlob)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=usefulib)](https://github.com/hamdivazim/usefulib)
