@@ -71,6 +71,11 @@
 ## :link: Social
 - My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
 
+## ☕ Buy me a Coffee
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hamdivazim" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="hamdivazim buy me a coffee" width="230"></a>
+</p>
+
 <center>
  <h2> :thought_balloon: Quote of The Day</h2>
  <a href="#"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"> </a>
