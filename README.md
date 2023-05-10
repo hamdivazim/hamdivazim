@@ -31,35 +31,35 @@
 <br/>
 <br/>
 
-- 👀 An aspiring developer specialising in Python, native app dev with Swift and web development
+- 👀 An aspiring developer specialising in Python, native app dev with Swift, web development and data science
 - 🌱 Getting into game development with Unity
 - 💡 Learning ReactJS, Dart and Django
-- 💻 Building data analytics software and working with AI.
+- 💻 Building data analytics software and working with AI
 - ⚡ **Fun Fact**: I'm only 12!
 
 ## :hammer: Tech Tools
 <p align="center">
  
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/swiftlogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/htmllogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csslogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/jslogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/unitylogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csharplogo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kotlinlogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/gitlogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/tensorflowlogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/xcodelogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/vscodelogo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/androidstudiologo.png" width=75px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/firebase.svg" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/figmalogo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/dartlogo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/flutterlogo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/reactlogo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/djangologo.png" height=85px />
- <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kivylogo.png" height=85px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/pylogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/swiftlogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/htmllogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csslogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/jslogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/unitylogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/csharplogo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kotlinlogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/gitlogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/tensorflowlogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/xcodelogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/vscodelogo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/androidstudiologo.png" width=65px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/firebase.svg" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/figmalogo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/dartlogo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/flutterlogo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/reactlogo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/djangologo.png" height=80px />
+ <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/assets/kivylogo.png" height=80px />
 </p>
 
 ## 📈 Stats
