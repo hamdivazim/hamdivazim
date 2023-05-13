@@ -11,8 +11,8 @@
 
 <div align="center">
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=CodeGlob)](https://github.com/hamdivazim/CodeGlob)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=usefulib)](https://github.com/hamdivazim/usefulib)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamdivazim&repo=pypredictor)](https://github.com/hamdivazim/pypredictor)
  
 </div>
 
