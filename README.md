@@ -76,6 +76,20 @@
   <a href="https://www.buymeacoffee.com/hamdivazim" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="hamdivazim buy me a coffee" width="230"></a>
 </p>
 
+<details>
+ <summary><h2>⚡ More Fun Facts...</h2></summary>
+
+<ul>
+ <li>I started programming with Swift Playgrounds when I was six!</li>
+ <li>I'm actually quite good at working with Excel...</li>
+ <li>I love solving Rubik's cubes!*</li>
+ <li>I LOVE cricket!</li>
+ <li>Sometimes, I like to find many ways to run Command Prompt on a school computer!</li>
+<sub>*🤫 my PB is 36.43s!</sub>
+</ul>
+ 
+</details>
+
 <center>
  <h2> :thought_balloon: Quote of The Day</h2>
  <a href="#"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"> </a>
