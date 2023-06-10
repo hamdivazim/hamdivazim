@@ -81,10 +81,9 @@
 
 <ul>
  <li>I started programming with Swift Playgrounds when I was six!</li>
- <li>I'm actually quite good at working with Excel...</li>
+ <li>I'm quite good at working with Excel...</li>
  <li>I love solving Rubik's cubes!*</li>
  <li>I LOVE cricket!</li>
- <li>Sometimes, I like to find many ways to run Command Prompt on a school computer!</li>
 <sub>*🤫 my PB is 36.43s!</sub>
 </ul>
  
