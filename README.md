@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/drkostas">
+ <a href="https://github.com/hamdivazim">
      <img src="https://github-stats-alpha.vercel.app/api?username=hamdivazim&cc=ffffff&tc=448DEF&ic=00&bc=448DEF">
  </a>
 </div>
