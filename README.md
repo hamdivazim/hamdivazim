@@ -26,6 +26,7 @@
 
 <p align="center"> Visit my blog at https://hamdivazim.github.io </p>
 <p align="center"> <a href="mailto:codingboy.cw@gmail.com">Email me</a> at codingboy.cw@gmail.com for queries. </p>
+<p>Check out [The Latin Net](thelatinnet.github.io) and our [GitHub Page](https://github.com/thelatinnet)</p>
 
 
 <br/>
