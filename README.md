@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/pfp-wide.png" align="center" />
-<h1 align="center">Hey there 👋, I'm codingboy_CW</h1>
+<h1 align="center">Hey there 👋, I'm hamdivazim</h1>
 <h3 align="center">Or you can call me Hamd!</h3>
 
 <p align="center"> 
