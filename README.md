@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/pfp-wide.png" align="center" />
+<img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/hamdivazim-logo.png" align="center" />
 <h1 align="center">Hey there 👋, I'm hamdivazim</h1>
 <h3 align="center">Or you can call me Hamd!</h3>
 
