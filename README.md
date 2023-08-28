@@ -68,8 +68,7 @@
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
 
 ## :link: Social
-- My **Gmail** is [codingboy.cw@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxkpPZtBzFzqDRRDcWPnKzbtQpWgScSKCcHwMdMmjkHPzNPwQPVCSkvkcZVXmFzjJVdV)
-
+- My **Gmail** is [hamdi.vazim@gmail.com](mailto:hamdi.vazim@gmail.com)
 ## ☕ Buy me a Coffee
 <p align="center">
   <a href="https://www.buymeacoffee.com/hamdivazim" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="hamdivazim buy me a coffee" width="230"></a>
