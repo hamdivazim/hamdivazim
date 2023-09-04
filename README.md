@@ -16,9 +16,7 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/hamdivazim">
-     <img src="https://github-stats-alpha.vercel.app/api?username=hamdivazim&cc=ffffff&tc=448DEF&ic=00&bc=448DEF">
- </a>
+   <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> </a>
 </div>
 
 <h3></h3>
@@ -63,7 +61,6 @@
 </p>
 
 ## 📈 Stats
-<a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamdivazim"> </a>
 <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdivazim" ></a>
 
