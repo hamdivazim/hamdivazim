@@ -15,15 +15,17 @@
  
 </div>
 
-<div align="center">
-   <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> </a>
-</div>
-
 <h3></h3>
 
 <p align="center"> Visit my blog at https://hamdivazim.github.io </p>
 <p align="center"> <a href="mailto:hamdi.vazim@gmail.com">Email me</a> at hamdi.vazim@gmail.com for queries. </p>
-<p align="center">Check out <a href="https://thelatinnet.github.io">The Latin Net</a> and our <a href="https://github.com/thelatinnet">GitHub Page</a>!</p>
+
+<h3></h3>
+
+<div align="center">
+   <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> </a>
+</div>
+
 
 
 <br/>
