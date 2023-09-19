@@ -24,20 +24,20 @@
 
 <h3></h3>
 
-<div align="center">
-   <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> </a>
-</div>
-
-
-
-<br/>
-<br/>
-
 - 👀 An aspiring developer specialising in Python, native app dev with Swift, web development and data science
 - 🌱 Getting into game development with Unity
 - 💡 Learning ReactJS, Dart and Django
 - 💻 Building data analytics software and working with AI
 - ⚡ **Fun Fact**: I'm only 12!
+
+<br/>
+<br/>
+
+<div align="center">
+   <a href="https://github.com/hamdivazim"> <img src="https://github-readme-stats.vercel.app/api?username=hamdivazim&include_all_commits=true&show_icons=true&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage"> </a>
+</div>
+
+
 
 ## :hammer: Tech Tools
 <p align="center">
