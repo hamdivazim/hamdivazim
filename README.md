@@ -20,7 +20,7 @@
 <p align="center"> Visit my blog at https://hamdivazim.github.io </p>
 <p align="center"> <a href="mailto:hamdi.vazim@gmail.com">Email me</a> at hamdi.vazim@gmail.com for queries. </p>
 
-<h3 align="center">✨ COMING SOON! ✨ - SocialConnect, a site to keep all your social links on one page!</h3>
+<h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Molecular Mysteries, an intriguing mobile game where you guess the chemical compound!</h3>
 
 <h3></h3>
 
