@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=hamdivazim&label=Profile%20views&color=0e75b6&style=flat" alt="hamdivazim's profile views" /> 
  <img src="https://img.shields.io/badge/Languages-Python | Swift | Data Science | Web Dev -green.svg" alt="hamdivazim's languages" />
  <img src="https://img.shields.io/github/followers/hamdivazim?style=social&label=Follow&maxAge=2592000" alt="hamdivazim's followers" />
- <a href="https://hamdivazim.github.io"><img src="https://img.shields.io/badge/My Blog-hamdivazim.github.io-00c1c1.svg" alt="hamdivazim's blog" /></a>
+ <a href="https://hamdivazim.vercel.app"><img src="https://img.shields.io/badge/My Blog-hamdivazim.vercel.app-2B005C.svg" alt="hamdivazim's blog" /></a>
 </p>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <h3></h3>
 
-<p align="center"> Visit my blog at https://hamdivazim.github.io </p>
+<p align="center"> Visit my blog at https://hamdivazim.vercel.app </p>
 <p align="center"> <a href="mailto:hamdi.vazim@gmail.com">Email me</a> at hamdi.vazim@gmail.com for queries. </p>
 
 <h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Ricochet Riddles, an intriguing puzzle game where you place blocks and let the ball bounce to the goal!</h3>
