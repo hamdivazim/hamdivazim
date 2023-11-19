@@ -20,7 +20,7 @@
 <p align="center"> Visit my blog at https://hamdivazim.vercel.app </p>
 <p align="center"> <a href="mailto:hamdi.vazim@gmail.com">Email me</a> at hamdi.vazim@gmail.com for queries. </p>
 
-<h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Ricochet Riddles, an intriguing puzzle game where you place blocks and let the ball bounce to the goal!</h3>
+<h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Eclipsa Odyssey, where Zephyr embarks on a new adventure to save the Lumina Kingdom from the Shadow Seraptors!</h3>
 
 <h3></h3>
 
