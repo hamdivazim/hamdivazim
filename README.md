@@ -20,7 +20,7 @@
 <p align="center"> Visit my blog at https://hamdivazim.vercel.app </p>
 <p align="center"> <a href="mailto:hamdi.vazim@gmail.com">Email me</a> at hamdi.vazim@gmail.com for queries. </p>
 
-<h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Eclipsa Odyssey, where Zephyr embarks on a new adventure to save the Lumina Kingdom from the Shadow Seraptors!</h3>
+<!-- <h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Eclipsa Odyssey, where Zephyr embarks on a new adventure to save the Lumina Kingdom from the Shadow Seraptors!</h3> Could be coming soon but paused dev for now due to school work and stuff -->
 
 <h3></h3>
 
@@ -28,7 +28,7 @@
 - 🌱 Getting into game development with Unity
 - 💡 Learning ReactJS, Dart and Django
 - 💻 Building data analytics software and working with AI
-- ⚡ **Fun Fact**: I'm only 12!
+- ⚡ **Fun Fact**: I'm 12!
 
 <br/>
 <br/>
