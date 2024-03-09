@@ -84,7 +84,7 @@
  <li>I'm quite good at working with Excel...</li>
  <li>I love solving Rubik's cubes!*</li>
  <li>I LOVE cricket!</li>
-<sub>*🤫 my PB is 36.43s!</sub>
+<sub>*🤫 my PB is 31.16s!</sub>
 </ul>
  
 </details>
