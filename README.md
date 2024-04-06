@@ -24,9 +24,9 @@
 
 <h3></h3>
 
-- 👀 An aspiring developer specialising in Python, native app dev with Swift, web development and data science
-- 🌱 Getting into game development with Unity
-- 💡 Learning ReactJS, Dart and Django
+- 👀 An aspiring developer specialising in Python, native app dev with Swift, web development, data science and cloud architecture
+- 🌱 Building more advanced games with Unity & working with the cloud
+- 💡 Learning ReactJS and Django
 - 💻 Building data analytics software and working with AI
 - ⚡ **Fun Fact**: I'm 12!
 
