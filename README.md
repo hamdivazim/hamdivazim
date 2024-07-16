@@ -28,6 +28,7 @@
 - 🌱 Building more advanced games with Unity & working with the cloud
 - 💡 Learning ReactJS and Django
 - 💻 Building data analytics software and working with AI
+- 🤖 Experimenting with sideloading and custom APKs
 - ⚡ **Fun Fact**: I'm 12!
 
 <br/>
