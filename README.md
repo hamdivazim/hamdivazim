@@ -70,11 +70,7 @@
 
 ## :link: Social
 - My **Gmail** is [hamdi.vazim@gmail.com](mailto:hamdi.vazim@gmail.com)
-## ☕ Buy me a Coffee
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hamdivazim" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="hamdivazim buy me a coffee" width="230"></a>
- 
-</p>
+
 
 <details>
  <summary><h2>⚡ More Fun Facts...</h2></summary>
