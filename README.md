@@ -5,7 +5,7 @@
  <img src="https://komarev.com/ghpvc/?username=hamdivazim&label=Profile%20views&color=0e75b6&style=flat" alt="hamdivazim's profile views" /> 
  <img src="https://img.shields.io/badge/Languages-Python | Swift | Data Science | Web Dev -green.svg" alt="hamdivazim's languages" />
  <img src="https://img.shields.io/github/followers/hamdivazim?style=social&label=Follow&maxAge=2592000" alt="hamdivazim's followers" />
- <a href="https://hamdivazim.vercel.app"><img src="https://img.shields.io/badge/My Blog-hamdivazim.vercel.app-2B005C.svg" alt="hamdivazim's blog" /></a>
+ <a href="https://hamdivazim.hamdtel.co.uk"><img src="https://img.shields.io/badge/My Blog-hamdivazim.hamdtel.co.uk-2B005C.svg" alt="hamdivazim's blog" /></a>
 </p>
 
 <div align="center">
