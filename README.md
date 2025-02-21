@@ -17,7 +17,7 @@
 
 <h3></h3>
 
-<p align="center"> Visit my blog at https://hamdivazim.vercel.app </p>
+<p align="center"> Visit my blog at https://hamdivazim.hamdtel.co.uk </p>
 <p align="center"> <a href="mailto:blog@hamdtel.co.uk">Email me</a> at blog@hamdtel.co.uk for queries. </p>
 
 <!-- <h3><p align="center">✨ COMING SOON! ✨</p> - SocialConnect, a site to keep all your social links on one page!<br>- Eclipsa Odyssey, where Zephyr embarks on a new adventure to save the Lumina Kingdom from the Shadow Seraptors!</h3> Could be coming soon but paused dev for now due to school work and stuff -->
