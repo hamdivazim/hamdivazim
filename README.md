@@ -90,4 +90,5 @@
  <a href="#"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"> </a>
 </center>
 
-<sub><a href="https://www.freepik.com/free-vector/gradient-liquid-abstract-background_13403524.htm#query=svg%20background&position=7&from_view=keyword&track=ais">Profile art by pikisuperstar</a></sub>
+<p><sub><a href="https://www.freepik.com/free-vector/gradient-liquid-abstract-background_13403524.htm#query=svg%20background&position=7&from_view=keyword&track=ais">Profile art by pikisuperstar</a></sub></p>
+<sub><b>My old account is <a href="https://github.com/hamdivazim-archive">@hamdivazim-archive</a>. It hosts some of my old projects. Check it out if you'd like :)
