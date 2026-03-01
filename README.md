@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/hamdivazim-logo.png" align="center" width=60%/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/hamdivazim/hamdivazim/main/banner.png" align="center" width=60%/></div>
 
 <p align="center"> 
   <h1 align="center">Hi, I'm Hamd Waseem 👋</h1>
@@ -43,42 +43,6 @@
 | **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,postman" height="30" /> |
 
 ### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="1000">
-      <a href="https://we-relay-syllabus.vercel.app"><kbd><img src="https://raw.githubusercontent.com/hamdivazim/WeRelaySyllabus/main/screenshots/thumbnail.png" alt="WeRelaySyllabus Thumbnail" width="250"></kbd></a>
-      <h4><a href="https://we-relay-syllabus.vercel.app">WeRelaySyllabus</a></h4>
-      <code>HackathonWinner</code> <code>Frontend</code> <code>Backend</code> <code>Mobile</code> <code>UI/UX</code> <code>Database</code> <code>Cloud</code> <code>Firebase</code> <code>Hackathon</code>
-      <p>Crowdsourcing syllabus calendars. One student helps and the whole course benefits.</p>
-      <p><a href="https://github.com/hamdivazim/WeRelaySyllabus"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="1000">
-      <a href="https://github.com/hamdivazim/Kynetic"><kbd><img src="https://raw.githubusercontent.com/hamdivazim-resources/images/main/kynetic-repo-thumbnail.jpg" alt="Kynetic Thumbnail" width="250"></kbd></a>
-      <h4><a href="https://github.com/hamdivazim/Kynetic">Kynetic</a></h4>
-      <code>Frontend</code> <code>Backend</code> <code>UI/UX</code> <code>Database</code> <code>AI/ML</code> <code>API</code> <code>Cloud</code> <code>Python</code> <code>DataScience</code> <code>AWS</code> <code>BYOC</code> <code>Docker</code>
-      <p>Dockerized, full stack BYOC whiteboard animation renderer.</p>
-      <p><a href="https://github.com/hamdivazim/Kynetic"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="1000">
-      <a href="https://github.com/hamdivazim/hamdivazim.hamdtel.co.uk/"><kbd><img src="https://raw.githubusercontent.com/hamdivazim-resources/images/main/portfoliov4.png" alt="Portfolio v4 Thumbnail" width="250"></kbd></a>
-      <h4><a href="https://github.com/hamdivazim/hamdivazim.hamdtel.co.uk/">Portfolio v4</a></h4>
-      <code>Frontend</code> <code>UI/UX</code>
-      <p>My new portfolio built with Next.js, powered by the Notion and Forem APIs.</p>
-      <p><a href="https://github.com/hamdivazim/hamdivazim.hamdtel.co.uk"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
-    </td>
-  </tr>
-</table>
 
 _Automated via GitHub Actions by fetching from Notion!_
 
