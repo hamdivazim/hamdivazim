@@ -47,8 +47,8 @@
 <table>
   <tr>
     <td width="1000">
-      <a href="https://github.com/hamdivazim/Audiergon"><kbd><img src="https://raw.githubusercontent.com/hamdivazim/Audiergon/main/logo.png" alt="Audiergon Thumbnail" width="250"></kbd></a>
-      <h4><a href="https://github.com/hamdivazim/Audiergon">Audiergon</a></h4>
+      <a href="https://audiergon.hamdtel.co.uk"><kbd><img src="https://raw.githubusercontent.com/hamdivazim/Audiergon/main/logo.png" alt="Audiergon Thumbnail" width="250"></kbd></a>
+      <h4><a href="https://audiergon.hamdtel.co.uk">Audiergon</a></h4>
       <code>Backend</code> <code>DataScience</code> <code>Maths</code> <code>AWS</code> <code>Cloud</code>
       <p>Online & local EQ lab to demonstrate the Fourier Transform in Computer Science</p>
       <p><a href="https://github.com/hamdivazim/Audiergon"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
