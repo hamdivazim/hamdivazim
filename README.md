@@ -47,6 +47,18 @@
 <table>
   <tr>
     <td width="1000">
+      <a href="https://kynetic.hamdtel.co.uk/"><kbd><img src="https://github.com/hamdivazim/Kynetic/raw/main/kynetic.png" alt="Kynetic Thumbnail" width="250"></kbd></a>
+      <h4><a href="https://kynetic.hamdtel.co.uk/">Kynetic</a></h4>
+      <code>Frontend</code> <code>Backend</code> <code>UI/UX</code> <code>Database</code> <code>AI/ML</code> <code>API</code> <code>Cloud</code> <code>Python</code> <code>DataScience</code> <code>AWS</code> <code>BYOC</code> <code>Docker</code>
+      <p>Dockerized, full stack BYOC whiteboard animation renderer.</p>
+      <p><a href="https://github.com/hamdivazim/Kynetic"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="1000">
       <a href="https://audiergon.hamdtel.co.uk"><kbd><img src="https://raw.githubusercontent.com/hamdivazim/Audiergon/main/logo.png" alt="Audiergon Thumbnail" width="250"></kbd></a>
       <h4><a href="https://audiergon.hamdtel.co.uk">Audiergon</a></h4>
       <code>Backend</code> <code>DataScience</code> <code>Maths</code> <code>AWS</code> <code>Cloud</code>
@@ -64,18 +76,6 @@
       <code>HackathonWinner</code> <code>Frontend</code> <code>Backend</code> <code>Mobile</code> <code>UI/UX</code> <code>Database</code> <code>Cloud</code> <code>Firebase</code> <code>Hackathon</code>
       <p>Crowdsourcing syllabus calendars. One student helps and the whole course benefits.</p>
       <p><a href="https://github.com/hamdivazim/WeRelaySyllabus"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="1000">
-      <a href="https://github.com/hamdivazim/Kynetic"><kbd><img src="https://raw.githubusercontent.com/hamdivazim-resources/images/main/kynetic-repo-thumbnail.jpg" alt="Kynetic Thumbnail" width="250"></kbd></a>
-      <h4><a href="https://github.com/hamdivazim/Kynetic">Kynetic</a></h4>
-      <code>Frontend</code> <code>Backend</code> <code>UI/UX</code> <code>Database</code> <code>AI/ML</code> <code>API</code> <code>Cloud</code> <code>Python</code> <code>DataScience</code> <code>AWS</code> <code>BYOC</code> <code>Docker</code>
-      <p>Dockerized, full stack BYOC whiteboard animation renderer.</p>
-      <p><a href="https://github.com/hamdivazim/Kynetic"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" style="vertical-align: middle;"> <b>See Repository</b></a></p>
     </td>
   </tr>
 </table>
